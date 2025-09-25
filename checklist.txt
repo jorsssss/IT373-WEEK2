@@ -1,0 +1,8 @@
+Environment Checklist
+
+-python version : Python 3.12.10
+-venv active : (.venv) PS C:\Users\ACER\Documents\IT373-week-django-exercise>
+-Django version : 5.2.6
+-runserver working : Starting development server at http://127.0.0.1:8000/
+-git remote: origin  https://github.com/gwy-maiso/IT373-week-django-exercise.git (fetch)
+	     origin  https://github.com/gwy-maiso/IT373-week-django-exercise.git (push)
